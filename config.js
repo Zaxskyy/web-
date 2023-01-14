@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/nauffhdkz' //Link Instagrammu
-global.sgh = 'https://github.com/naufalmuflih' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1lR'
+global.sig = 'https://instagram.com/zaxskyy_' //Link Instagrammu
+global.sgh = '_' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/GSkTHVUCwSY2M7yICX4rD6'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
+global.snh = '_🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '081615997326' //Nomor Danamu
-global.ppulsa = '081615997326' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.co/naufalmuflih' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '087870857446' //Nomor Danamu
+global.ppulsa = '087870857446' //Nomor SimCard Yang Kamu Pake
+global.psaweria = '_' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '081615997326' //Nomor Bot
-global.nomorown = '6289601124991' //Nomor Owner
-global.namebot = 'Whatsapp-Bot' //Nama Bot
-global.nameown = 'Naufal Muflih' // Nama Owner
+global.nomorbot = '0878708574460' //Nomor Bot
+global.nomorown = '6287870857446' //Nomor Owner
+global.namebot = 'Zaxskyy-Bot' //Nama Bot
+global.nameown = 'Najwan Zaky' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289601124991', 'Naufal Muflih', true] //Ganti jd nomormu sama Namamu
+  ['6287870857446', 'Najwan Zaky', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Whatsapp 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Whatsapp Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Whatsapp 𝙱𝙾𝚃'
+global.wm = '「 Zaxakyy 𝙱𝙾𝚃 汉 」' //Main Watermark
+global.wm2 = 'Zaxskyy Bot'
+global.wm3 = '⫹⫺ Zaxskyy 𝙱𝙾𝚃'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
